@@ -1,0 +1,6 @@
+The command used to build the project are:
+> gradle build -x test – for building gumtree
+> gradle build - for building commit generation
+project
+> gradle run -PappArgs="['repo path', 'output
+filename']"
